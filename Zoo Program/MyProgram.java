@@ -2,6 +2,7 @@ public class MyProgram
 {
     public static void main(String[] args)
     {
+        
         Zoo unicorn = new Zoo();
         Zoo animal = new Zoo("bear");
         Zoo animal3 = new Zoo("penguin",23, true);
