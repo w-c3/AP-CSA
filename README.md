@@ -1,10 +1,3 @@
- ________  ________                ________  ________  ________     
-|\   __  \|\   __  \              |\   ____\|\   ____\|\   __  \    
-\ \  \|\  \ \  \|\  \ ____________\ \  \___|\ \  \___|\ \  \|\  \   
- \ \   __  \ \   ____\\____________\ \  \    \ \_____  \ \   __  \  
-  \ \  \ \  \ \  \___\|____________|\ \  \____\|____|\  \ \  \ \  \ 
-   \ \__\ \__\ \__\                  \ \_______\____\_\  \ \__\ \__\
-    \|__|\|__|\|__|                   \|_______|\_________\|__|\|__|
-                                               \|_________|         
-
-All the projects I have made so far in AP-CSA that I would like to share.
+score = (int)((Math.random() *5) +1)
+System.out.println("I got a " + score + " on the AP COMPSCI A exam.");
+//All the projects I have made so far in AP-CSA that I would like to share.
