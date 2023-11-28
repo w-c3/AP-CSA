@@ -20,7 +20,8 @@ public class myProgram
         
         while(!(playAgain.equals("no"))){
             System.out.println("Rolling Dice....");
-           
+            playerScore = 0;
+            computerScore = 0;
             //Player Dice 1:
             int dice1 = (int)(Math.random()*6 +1);
             boolean dice1roll = true;
