@@ -1,0 +1,17 @@
+public class BankTester
+{
+    public static void main(String[] args)
+    {
+        // Start here!
+        Account dave = new Account("Dave", 100);
+        System.out.println(dave.toString());
+        dave.deposit(100);
+        
+        StudentAccount deva = new StudentAccount("Deva", 1000);
+        System.out.println(deva.toString());
+        deva.deposit(10);
+        deva.withdrawal(79);
+        System.out.println(deva.toString());
+        
+    }
+}
